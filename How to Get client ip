@@ -1,0 +1,8 @@
+<script>
+
+    $.get("https://ipinfo.io", function(response) {
+     
+      console.log("This is the response", con)
+    }, "jsonp");
+
+</script>
