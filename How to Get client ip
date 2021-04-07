@@ -4,5 +4,13 @@
      
       console.log("This is the response", con)
     }, "jsonp");
-
+    
+    -------------------------------------------------------------------
+    //Second 
+    
+    $.get('https://api.ipdata.co/?api-key=test', function(data)
+    --------------------------------------------------------------------
+    
+    if ($('.connect[class*="test"]').length > 0 )   // For Connect & Test class is in the same div
+    
 </script>
